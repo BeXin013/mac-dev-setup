@@ -1,0 +1,41 @@
+
+
+| 分类               | 软件                 | 简述                     | 来源              |
+| ---------------- | ------------------ | ---------------------- | --------------- |
+| **开发基础**         | Homebrew           | macOS 包管理器，安装/更新软件基础   | brew\.sh        |
+|                  | iTerm2             | 高级终端，支持分屏、搜索、快捷操作      | brew cask       |
+|                  | zsh + oh-my-zsh    | 高效 Shell 环境，增强命令行体验    | brew / ohmyz.sh |
+|                  | Git + gh           | 版本控制与 GitHub CLI       | brew            |
+| **数据库 / 后端**     | PostgreSQL         | 开源关系型数据库               | brew            |
+|                  | DBeaver            | 跨数据库 GUI 客户端           | brew cask       |
+|                  | TablePlus          | Mac 原生数据库管理工具          | brew cask       |
+|                  | pgcli              | 智能补全的 psql 替代          | brew            |
+|                  | SQLite Browser     | SQLite 数据库 GUI 管理      | brew cask       |
+|                  | Realm Studio       | Realm 数据库 GUI 管理       | brew cask       |
+| **容器**           | Colima             | Apple Silicon 轻量容器运行环境 | brew            |
+|                  | Docker Desktop     | 带 GUI 的容器管理            | brew cask       |
+| **API / 测试**     | Postman            | API 调试与 Mock           | brew cask       |
+|                  | fastlane           | iOS 构建/签名/上传自动化        | brew            |
+| **代码编辑 / AI 辅助** | Xcode              | Apple 官方 iOS/macOS IDE | Mac App Store   |
+|                  | Cursor             | AI 代码编辑器               | brew cask       |
+|                  | Kiro               | Agentic IDE，AI 驱动开发流程  | 官网              |
+|                  | VS Code            | 轻量编辑器 + 丰富插件生态         | brew cask       |
+|                  | JetBrains Toolbox  | 管理 JetBrains 全家桶       | brew cask       |
+| **文档 / 笔记 / PM** | Obsidian           | Markdown 双链知识管理        | brew cask       |
+|                  | Notion             | 文档+数据库一体化协作            | brew cask       |
+|                  | Typora             | 所见即所得 Markdown 编辑器     | brew cask       |
+|                  | Zotero             | 学术文献与资料管理              | brew cask       |
+| **效率工具**         | Raycast            | 快速启动器 + 脚本工作流          | brew cask       |
+|                  | Rectangle          | 窗口管理                   | brew cask       |
+|                  | Maccy              | 剪贴板历史管理                | brew cask       |
+|                  | Bartender          | 菜单栏图标管理                | brew cask       |
+|                  | Keka               | 压缩/解压工具                | brew cask       |
+| **安全 / 备份**      | Bitwarden          | 开源密码管理                 | brew cask       |
+|                  | Carbon Copy Cloner | 系统备份                   | brew cask       |
+|                  | Little Snitch      | 出站连接监控                 | brew cask       |
+| **多媒体 / 截图**     | CleanShot X        | 高级截图与注释                | brew cask       |
+|                  | OBS Studio         | 屏幕录制/直播                | brew cask       |
+|                  | HandBrake          | 视频转码与压缩                | brew cask       |
+| **浏览器 / 办公**     | Microsoft Edge     | Chromium 内核浏览器         | brew cask       |
+|                  | Microsoft Office   | Word / Excel / PPT 套件  | brew cask       |
+| **视频剪辑**         | Final Cut Pro      | 专业视频编辑                 | Mac App Store   |
